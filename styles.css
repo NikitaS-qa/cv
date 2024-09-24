@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(background.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+.card {
+    background: rgba(0, 0, 0, 0.6);
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card_2 {
+    background: rgba(0, 0, 0, 0.6);
+    max-width: 1000px;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card_3 {
+    background: rgba(0, 0, 0, 0.6);
+    max-width: 700px;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: inherit;
+    border-radius: 10px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
